@@ -1,0 +1,96 @@
+/* TODO: just keep the colors I want */
+:root {
+  /* slates */
+  --slate1: hsl(200, 7%, 8.8%);
+  --slate2: hsl(195, 7.1%, 11%);
+  --slate3: hsl(197, 6.8%, 13.6%);
+  --slate4: hsl(198, 6.6%, 15.8%);
+  --slate5: hsl(199, 6.4%, 17.9%);
+  --slate6: hsl(201, 6.2%, 20.5%);
+  --slate7: hsl(203, 6%, 24.3%);
+  --slate8: hsl(207, 5.6%, 31.6%);
+  --slate9: hsl(206, 6%, 43.9%);
+  --slate10: hsl(206, 5.2%, 49.5%);
+  --slate11: hsl(206, 6%, 63%);
+  --slate12: hsl(210, 6%, 93%);
+  /* blues */
+  --blue1: hsl(212, 35%, 9.2%);
+  --blue2: hsl(216, 50%, 11.8%);
+  --blue3: hsl(214, 59.4%, 15.3%);
+  --blue4: hsl(214, 65.8%, 17.9%);
+  --blue5: hsl(213, 71.2%, 20.2%);
+  --blue6: hsl(212, 77.4%, 23.1%);
+  --blue7: hsl(211, 85.1%, 27.4%);
+  --blue8: hsl(211, 89.7%, 34.1%);
+  --blue9: hsl(206, 100%, 50%);
+  --blue10: hsl(209, 100%, 60.6%);
+  --blue11: hsl(210, 100%, 66.1%);
+  --blue12: hsl(206, 98%, 95.8%);
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  margin: auto;
+  padding: 20px;
+  /* TODO: do I like this max width */
+  max-width: 65ch;
+  text-align: left;
+  background-color: var(--slate2);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+  color: var(--slate12);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  font-weight: 500;
+}
+a {
+  color: var(--blue10);
+}
+nav a {
+  margin-right: 10px;
+}
+textarea {
+  width: 100%;
+  font-size: 16px;
+}
+input {
+  font-size: 16px;
+}
+content {
+  line-height: 1.6;
+}
+table {
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* TODO: test */
+code {
+  padding: 2px 5px;
+  background-color: var(--slate4);
+  font-family: menlo, monospace;
+}
+pre {
+  padding: 1rem;
+}
+pre > code {
+  all: unset;
+}
+/* TODO: test */
+blockquote {
+  border: 1px solid var(--slate10);
+  color: var(--slate11);
+  padding: 2px 0px 2px 20px;
+  margin: 0px;
+  font-style: italic;
+}
