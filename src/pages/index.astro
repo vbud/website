@@ -5,10 +5,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
 
-const blogPosts = (await getCollection("blog")).sort(
+const projects = (await getCollection("projects")).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
-const projects = (await getCollection("projects")).sort(
+const techPosts = (await getCollection("tech")).sort(
+  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+);
+const lifePosts = (await getCollection("life")).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 ---
@@ -52,13 +55,26 @@ const projects = (await getCollection("projects")).sort(
         </ul>
       </section>
       <section>
-        <h2>Blog</h2>
+        <h2>Tech</h2>
         <ul>
           {
-            blogPosts.map((post) => (
+            techPosts.map((post) => (
               <li>
                 <FormattedDate date={post.data.pubDate} />
-                <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+                <a href={`/tech/${post.slug}/`}>{post.data.title}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+      <section>
+        <h2>Life</h2>
+        <ul>
+          {
+            lifePosts.map((post) => (
+              <li>
+                <FormattedDate date={post.data.pubDate} />
+                <a href={`/life/${post.slug}/`}>{post.data.title}</a>
               </li>
             ))
           }
