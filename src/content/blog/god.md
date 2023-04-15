@@ -2,6 +2,7 @@
 title: "On God"
 description: "The loss and rediscovery of God"
 pubDate: "Apr 4 2023"
+tag: "life"
 ---
 
 I was raised predominantly Pentecostal Christian. I even went to a Pentecostal school from grades 4 to 9, where I learned that the world was 6000 years old and that there was, supposedly, a scientific explanation behind Noah's flood. In college, I stopped believing in Christianity and became an atheist.

@@ -2,6 +2,7 @@
 title: "Triads: from idealism to realism"
 description: "What I've learned about how to structure EPD teams"
 pubDate: "Mar 30 2023"
+tag: "tech"
 ---
 
 # Triads

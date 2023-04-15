@@ -2,6 +2,7 @@
 title: "Composer"
 description: "Experiment in designing with existing design systems"
 pubDate: "Apr 14 2023"
+tag: "projects"
 ---
 
 Throughout my career, I've straddled product design and (mostly UI) engineering. I particularly enjoy working on complex workflows, data visualization, and other complex UI problems. As a result, I've often found myself working with or building design systems and custom component libraries.
