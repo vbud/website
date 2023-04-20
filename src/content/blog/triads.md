@@ -2,6 +2,7 @@
 title: "Triads: from idealism to realism"
 description: "What I've learned about how to structure EPD teams"
 pubDate: "Mar 30 2023"
+updatedDate: "Apr 19 2023"
 tag: "tech"
 ---
 
@@ -87,6 +88,8 @@ If I needed to design an EPD organization again in the future, I would not requi
 I would invest more heavily in coaching anyone taking a leadership role on a team, especially if they are new to the role. A lot of the issues I encountered with Triads came down to unclear expectations for individuals' roles and for how to handle common situations that Triads run into. For example, a designer may not be used to being in a position to “start together” with their engineering and product management peers. They might take more of a back seat in the triad, or they may reach for agency-style techniques that do not fit well in a modern software development team (I’ve seen both of these happen, and both are coachable).
 
 Something else I have noticed (not unique to Triads) is that someone on the team's leadership must have a strong vision for the initiative they are working on. Without this, “design by committee” starts to happen. This further reinforces a point I mentioned already about management needing to select the right people for a Triad. Regardless of any particular organizational design, management selection of a team’s composition, particularly the team's leader(s), seems to me to be the determining factor in a given initiative’s success (assuming the overall strategy is good, which is a separate topic).
+
+(April 19, 2023 update: Seth Herr pointed me to the [_Shape Up_ book](https://basecamp.com/shapeup), which helped clarify something I wasn't doing a great job of explaining here. Something that was _implicit_ in the Triad model that should be made _explicit_ is that someone, or a small group of someones, need to be [Shapers](https://basecamp.com/shapeup/1.1-chapter-02#who-shapes). I've seen Shapers be designers, engineers, or even PMs. Without someone taking the role of Shaper in a project, no process or organizational design can drive a project to a successful outcome.)
 
 # Closing thoughts
 
