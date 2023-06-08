@@ -5,6 +5,8 @@ pubDate: "Jun 6 2023"
 tag: "tech"
 ---
 
+_Before reading this, you might be interested in reading my post about [the kinds of software problems I like working on](/blog/problems-i-like)._
+
 For years, I have kept a list of ideas for software products and tools. After I re-lauched my website, I figured why not clean up the list and make it public? Having ideas is the easy part, after all. Maybe one day I'll convince someone to work on one of these with me :).
 
 # Better browser history and bookmarking
@@ -44,7 +46,7 @@ I also have a sneaking suspicion that there are opportunities to build better so
 
 # Design system tools
 
-I've spent a lot of time in my career working with design systems, both as a designer and as an engineer. I've had a few different ideas in this space, and I actually [worked on one of these ideas](https://vbud.dev/blog/composer) for a few months.
+I've spent a lot of time in my career working with design systems, both as a designer and as an engineer. I've had a few different ideas in this space, and I actually [worked on one of these ideas](/blog/composer) for a few months.
 
 # App data catalog developer tooling
 
