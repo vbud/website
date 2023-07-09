@@ -1,6 +1,6 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
-import { SITE_TITLE } from "../consts";
+import { SITE_TITLE, RSS_PATH } from "../consts";
 ---
 
 <header>
@@ -19,6 +19,7 @@ import { SITE_TITLE } from "../consts";
     <HeaderLink href="mailto:valjeanbud@gmail.com" target="_blank">
       Email
     </HeaderLink>
+    <HeaderLink href={RSS_PATH}>RSS</HeaderLink>
   </nav>
 </header>
 <style>

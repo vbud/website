@@ -4,3 +4,4 @@
 export const SITE_TITLE = "Valjean Clark";
 export const SITE_DESCRIPTION =
   "programmer, design and product tinkerer, fellow human";
+export const RSS_PATH = "/rss.xml";
