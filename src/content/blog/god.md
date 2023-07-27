@@ -1,17 +1,15 @@
 ---
 title: "On God"
-description: "The loss and rediscovery of God"
+description: "An atheist comes to a new understanding of God"
 pubDate: "Apr 4 2023"
 tag: "life"
 ---
 
-I was raised predominantly Pentecostal Christian. I even went to a Pentecostal school from grades 4 to 9, where I learned that the world was 6000 years old and that there was, supposedly, a scientific explanation behind Noah's flood. In college, I stopped believing in Christianity and became an atheist.
+I was raised predominantly Pentecostal Christian. In college, I stopped going to church and became an atheist.
 
-I was mostly happy to be rid of the close-minded Christianity I was accustomed to. In public high school and college, I was able to ask questions about the world without being told that my faith was lacking.
+I was mostly happy to be rid of the close-minded Christianity that I was accustomed to. However, one thing really bothered me as an atheist. Like all humans, I've made mistakes, and bad things have happened to me that are outside of my control. When I believed in God, I found it incredibly reassuring to know that God would forgive us of our sins, and that he had a plan and purpose for every one of us, no matter what. When I became an atheist, I was faced with the bleak reality that there is no grand plan or purpose. I've always found this very difficult to live with. I like to overthink things, and I really relied upon God having a plan for us to give me a boost of confidence when I make a decision that I cannot know the full consequences of (e.g. picking a major in college, moving to a new city).
 
-However, one thing really bothered me as an atheist. Like most humans, I've made mistakes, and bad things have happened to me that are outside of my control. I found it incredibly reassuring to know that God would forgive us of our sins, and that he had a plan and purpose for every one of us, no matter what. When I became an atheist, I was faced with the bleak reality that there is no grand plan or purpose. I've always found this very difficult to live with. I like to overthink things, and I really relied upon God having a plan for us to give me a boost of confidence when I make a decision that I cannot know the full consequences of (e.g. picking a major in college, moving to a new city).
-
-I thought that, over time, this would bother me less and less and I would eventually be at peace with it. Well, fifteen years after becoming an atheist, I realized this still really bothers me in the exact same way it did at the very beginning. It also didn't seem to bother other agnostics or atheists I knew, which always surprised me.
+I thought that, over time, this would bother me less and less and I would eventually be at peace with it. Well, fifteen years after becoming an atheist, I realized this still really bothers me in the exact same way, and I was not at peace with it. Interestingly, this didn't seem to bother other agnostics or atheists I knew, which meant that I'm going to have to come to an understanding on my own.
 
 Recently, I've been reflecting on how I frame some recent life and career decisions. This deserves its own post, but essentially I realized that a lot of my decision-making seems to be driven by preventing bad things from happening. It's not a bad thing to try to prevent loss, but taking a particular job or deciding to start a company or moving to a new city cannot be solely motivated by loss prevention.
 
@@ -23,4 +21,4 @@ It's not really an issue that I was learning from mistakes - the issue was that 
 
 And then, suddenly, for the first time ever, I _understood_ the concept of God. God is forgiveness. God is understanding that you will not get everything right, and that things can still work out OK. That human plans are fungible. I cannot be God. I am human. No matter the ambition or the complexity of my designs on life, I will be wrong, I will be humbled, and it is ok.
 
-To be clear, I don't believe in God or any god in the literal sense. I think I'm just beginning to understand what God is meant to represent.
+To be clear, I don't believe in God or any god in the literal sense. I think I'm just beginning to understand and respect what God is meant to represent, and how the lessons in Christianity and other religions are timeless.
