@@ -13,7 +13,7 @@ My approach to the UI code was straightforward and productive: take material-ui,
 
 I decided to take a few months to prototype a solution. It turns out that this is a really complex problem!
 
-I went through a few iterations, the furthest along of which is a prototype called [Composer](https://composer.design/).
+I went through a few iterations, the furthest along of which is a prototype called [Composer](https://composer.vbud.dev).
 
 ![Composer example file](/composer.png)
 
