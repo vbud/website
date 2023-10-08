@@ -19,7 +19,7 @@ This time around, I'm approaching the website with a more organic writing habit 
 
 # Technology choices matter
 
-While the specific blog technology might not matter (Jekyll, Astro, Hugo, etc), the editing experience absolutely matters. Both of my prior attempts at websites involved writing either raw HTML or Angular, and it just didn't feel natural, at least to me, to write blog posts in code. Even when I tried markdown, writing Markdown in monospace in my code ditor didn't feel natural either.
+While the specific blog technology might not matter (Jekyll, Astro, Hugo, etc), the editing experience absolutely matters. My first attempt at a website involved writing raw HTML, and my second attempt used Angular. Neither felt natural, at least to me, for writing. Even when I tried writing markdown, which was a better experience than HTML or an app framework, I found that writing in monospace in my code editor didn't feel natural either.
 
 This time around, I wanted something where I could write my posts in something like Markdown, but without it feeling like I was writing code. I took the time to customize my code editor to render markdown in a non-monospace font so that it feels more like writing text in a tool like Notion.
 
