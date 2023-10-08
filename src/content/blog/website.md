@@ -25,9 +25,9 @@ This time around, I wanted something where I could write my posts in something l
 
 # Editing takes time
 
-Luckily, I actually write a lot! I journal several times a week. The challenge is in taking musings from a journal entry and turning them into something I feel good about publishing.
+Luckily, I actually write a lot! I journal several times a week. The challenge is in taking musings from a journal entry and turning them into something I feel good about posting.
 
-In recent years, I've tried being less of a perfectionist, which has helped me be okay with publishing posts that I wouldn't have posted in the past.
+In recent years, I've tried being less of a perfectionist, which has helped me be okay with posting things that I wouldn't have posted in the past.
 
 # Habits
 

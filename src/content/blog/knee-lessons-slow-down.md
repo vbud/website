@@ -2,7 +2,7 @@
 title: "Knee lessons: slow down"
 description: "What my knee has taught me about knowing when to slow down"
 pubDate: "Sep 10 2023"
-tag: "life"
+tag: "knee"
 ---
 
 _This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-lessons-introductions) describes I injured my knee in the first place and has links to the posts I have written about other lessons I have learned._
