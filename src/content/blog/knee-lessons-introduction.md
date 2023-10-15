@@ -22,6 +22,7 @@ I'd be lying if I said it hasn't been difficult and frustrating dealing with thi
 Finished posts:
 
 - [Slow down](/blog/knee-lessons-slow-down)
+- [Ask for help](/blog/knee-lessons-ask-for-help)
 
 Some future posts I am considering writing:
 

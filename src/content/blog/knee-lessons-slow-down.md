@@ -5,7 +5,7 @@ pubDate: "Sep 10 2023"
 tag: "knee"
 ---
 
-_This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-lessons-introductions) describes I injured my knee in the first place and has links to the posts I have written about other lessons I have learned._
+_This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-lessons-introductions) describes how I injured my knee in the first place and has links to the posts I have written about other lessons I have learned._
 
 I remember finding my knee injury to be a kind of an inconvenience. I just wanted to get back to the things I was enjoying in life.
 
