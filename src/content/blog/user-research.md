@@ -1,6 +1,6 @@
 ---
-title: "User research disillusionment"
-description: "How I became disillusioned with user research early in my career"
+title: "On user research"
+description: "My evolving understanding of the role and value of user research in software development"
 pubDate: "Oct 15 2023"
 tag: "tech"
 ---
