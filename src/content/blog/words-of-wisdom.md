@@ -5,11 +5,9 @@ pubDate: "Oct 29 2023"
 tag: "life"
 ---
 
-# Words of wisdom
-
 I have been thinking about how words of wisdom don't really mean anything to a person until they experience a situation that infuse the words with meaning.
 
-## "Work isn't everything"
+# "Work isn't everything"
 
 Here's an example of words of wisdom: "work isn't everything". I remember in my 20s how much meaning and purpose I got from work. I remember disliking any advice about work-life balance, but I also knew that the words held truth, and that I would not have a fulfilling life if I was focused solely on work. But it didn't really _mean_ anything to me until I had a burnout moment. After that burnout moment, the words meant something different to me. They were the same words, but now I have a personal experience to connect it to.
 
@@ -19,11 +17,11 @@ These sayings even have different meanings person to person. For example, a clos
 
 So, this "work isn't everything" saying, to me, is more about perspective. In fact, I'm finding it leading me to search for _more_ meaning in my work, because I want to look back ten years from now and be proud of what I worked on, in the same way I'm proud of me spending more time engaging with my interest to write recently, or of engaging with therapy to confront some old demons.
 
-## Know your limits
+# Know your limits
 
 In sports and outdoor activities, there is similarly good advice to "know your limits" to avoid injury. It's great advice, but a concrete idea of a "limit" doesn't really exist until you run into one. Once you have hit a limit, it _means_ something. After my ACL tear five years ago, and even more so after the long and humbling road of complications and recovery since then, I understand limits better. I know how it feels to be approaching a limit now that I know where the limit is. I don't go for that extra rep anymore in the gym, or that extra mile on the trail. I can work up to new levels of strength or performance by just showing up to my activities every day and increasing things steadily.
 
-## Takeaways?
+# Takeaways?
 
 I've been wondering to myself if there are any takeaways from these musings.
 
