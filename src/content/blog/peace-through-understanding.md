@@ -15,7 +15,7 @@ I think most people would see how this revelation would bring me peace. However,
 
 # Blind optimism
 
-[As I've written about](/blog/knee-lessons-introduction), five years ago I had an ACL reconstruction surgery that led to some unfortunate long-term consequences. I recently had a cartilage repair surgery, which I hope will resolve some of the underlying problem. Ultimately the success rate for this surgery is between 80 and 90%, which is far from a sure bet, plus "success" technically just means the knee feels better than before, i.e. not necessarily fully resolved.
+[As I've written about](/blog/knee-injury), five years ago I had an ACL reconstruction surgery that led to some unfortunate long-term consequences. I recently had a cartilage repair surgery, which I hope will resolve some of the underlying problem. Ultimately the success rate for this surgery is between 80 and 90%, which is far from a sure bet, plus "success" technically just means the knee feels better than before, i.e. not necessarily fully resolved.
 
 My reaction to everything with my knee has been to seek understanding for the cause of my pain and learn more about how the knee works. This understanding has led me to an acknowledgement that certain kinds of knee pain are really hard to fix, and that even the best surgeons and PTs cannot resolve every type of knee pain. There is still a lot that the medical profession doesn't know about knees. For example, it was recently discovered that ACLs naturally heal at a higher rate than previously thought, and that non-surgical bracing can dramatically increase that rate.
 

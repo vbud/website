@@ -1,11 +1,11 @@
 ---
-title: "Knee lessons: ask for help"
+title: "Learning to ask for help"
 description: "What my knee has taught me about learning when to ask for help"
 pubDate: "Oct 15 2023"
-tag: "knee"
+tag: "life"
 ---
 
-_This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-lessons-introductions) describes how I injured my knee in the first place and has links to the posts I have written about other lessons I have learned._
+_This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-injury) describes how I injured my knee and has links to the posts I have written about other lessons I have learned._
 
 Perhaps the biggest lesson in my ongoing knee saga is this: learn to ask for help.
 

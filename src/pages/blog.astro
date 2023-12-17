@@ -6,11 +6,11 @@ import { getCollection } from "astro:content";
 import FormattedDate from "../components/FormattedDate.astro";
 
 const posts = (await getCollection("blog")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
@@ -42,7 +42,7 @@ const posts = (await getCollection("blog")).sort(
     <Header />
     <main>
       {
-        ["projects", "tech", "life", "knee"].map((tag) => (
+        ["projects", "tech", "life"].map((tag) => (
           <section>
             <h2>{tag}</h2>
             <ul>
