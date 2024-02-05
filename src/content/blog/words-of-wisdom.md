@@ -13,11 +13,11 @@ Here's an example of words of wisdom: "work isn't everything". I remember in my 
 
 What's interesting is that there was no way I could have preempted this lesson and or somehow learned it sooner. I needed to prioritize work for a while to give myself the confidence that I could work hard, learn useful skills, and be valuable on a team.
 
-These sayings even have different meanings person to person. For example, a close family member thinks work is a paycheck, nothing more. I don't feel that way - I need to like my work. So "work isn't everything" for me is more of a reminder to take a longer term view. I remember work problems that felt _so important_ five years ago that don't mean anything to me today, while there were other experiences I was having at the time, like honing my skills in the outdoors, that I absolutely treasure having spent time on.
+These sayings even have different meanings person to person. For example, we all know people who treat work as just a paycheck. I personally don't feel that way - I need to like my work. So "work isn't everything" for me is more of a reminder to take a longer term view. I remember work problems that felt _so important_ five years ago that don't mean anything to me today, while there were other experiences I was having at the time, like honing my skills in the outdoors, that I absolutely treasure having spent time on.
 
 So, this "work isn't everything" saying, to me, is more about perspective. In fact, I'm finding it leading me to search for _more_ meaning in my work, because I want to look back ten years from now and be proud of what I worked on, in the same way I'm proud of me spending more time engaging with my interest to write recently, or of engaging with therapy to confront some old demons.
 
-# Know your limits
+# "Know your limits"
 
 In sports and outdoor activities, there is similarly good advice to "know your limits" to avoid injury. It's great advice, but a concrete idea of a "limit" doesn't really exist until you run into one. Once you have hit a limit, it _means_ something. After my ACL tear five years ago, and even more so after the long and humbling road of complications and recovery since then, I understand limits better. I know how it feels to be approaching a limit now that I know where the limit is. I don't go for that extra rep anymore in the gym, or that extra mile on the trail. I can work up to new levels of strength or performance by just showing up to my activities every day and increasing things steadily.
 
