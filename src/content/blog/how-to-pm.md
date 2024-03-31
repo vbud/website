@@ -36,7 +36,7 @@ The other day she wrote this excellent guide to how she PMs and then shared it w
 
 #1 is one of my favorites. The product role is loosely-defined compared to engineering or design. The solution to this lack of definition is to be helpful in every possible way. If a designer lacks context on a problem, work with them so they can create excellent designs. If the team is too inwardly focused, go talk to users and come back with new information, or set up a conversation between engineers and sales or marketing to give the team perspective on how the software is sold (#6). Teams will naturally silo, and the PM is often in the best position to break down those silos and build bridges.
 
-Building on #6, one of the best aspects of working with Karishma is that she is always connecting people who should know each other, and in particular she was good about connecting teams who have a negative view of each other. Instead of just accepting that marketing doesn't know how to talk about the product, Karishma will find a way to support marketing better
+Building on #6, one of the best aspects of working with Karishma is that she is always connecting people who should know each other, and in particular she was good about connecting teams who have a negative view of each other. Instead of just accepting that marketing doesn't know how to talk about the product, Karishma will find a way to support marketing better.
 
 #5 was another enjoyable aspect of working with Karishma. She really loves feedback from engineers and she creates an environment where engineers feel comfortable calling out a product decision that doesn't make sense.
 
@@ -44,4 +44,4 @@ Karishma is right to be skeptical of processes and frameworks (#4). Most problem
 
 #9 is very related to #2 and #4. PMs (and other roles) can fall into a trap of spending way too much time writing documents, creating slides, and attending every possible meeting. Remaining focused on improving the product and customer experience above all else does wonders for productivity and morale, and Karishma is great at calling out when a process or unnecessary request is getting in the way of doing good work.
 
-While Karishma doesn't mention this, one of the best, if not the best, aspects of working with her is that she is fun to work with. She's energetic, she brings people together, and she has this incredible ability to improve even the most difficult work situation, and while working hard and caring about the outcome.
+While Karishma doesn't mention this, one of the best, if not the best, aspects of working with her is that she is fun to work with. She's energetic, she brings people together, and she has this incredible ability to improve even the most difficult work situation. She works hard and really cares about the outcome over bureaucracy and politics.
