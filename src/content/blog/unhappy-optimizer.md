@@ -19,7 +19,7 @@ Over time, the motivations evolved. Once I felt compatible enough with others, I
 
 Related to this obsession with personal growth, I also came to believe that I can’t disappoint anyone, ever, for any reason. Hence, I need to seek out answers to every question, learn something about every topic. I must excel in every environment I’m thrown into. Every class, every job, every chore. I must avoid every failure that I can learn how to prevent.
 
-My curiosity of love of optimization was well-suited to my work building software, and a desire for personal growth made me very amenable to seeking and acting on feedback. That gave me a lot of confidence that my approach to life was working. I kept getting cooler job opportunities and promotions, and most people seemed to really like working with me.
+My love of optimization was well-suited to my work building software, and a desire for personal growth made me very amenable to seeking and acting on feedback. That gave me a lot of confidence that my approach to life was working. I kept getting cooler job opportunities and promotions, and most people seemed to really like working with me.
 
 I got good at preventing bad things from happening, both at work and in my personal life. That doesn't mean I avoided trying new things - to the contrary, because I was obsessed with growth, I tried new roles at work, new relationships, new cities. And I didn't mind when I failed or when something bad would happen, because I would ensure that I don't repeat that failure.
 
