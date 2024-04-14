@@ -7,7 +7,7 @@ tag: "life"
 
 In 2022, I hiked the high Sierra portion of the PCT, along with some of the Sierra High Route.
 
-During my very first leg of the trail from Trail Pass to Kearsarge Pass, I experienced something I call "social shock" - perhaps there an official term for what I experienced.
+During my very first leg of the trail from Trail Pass to Kearsarge Pass, I experienced something I call "social shock" - perhaps there is an official term for what I experienced.
 
 For those who don't know, hiking the PCT is a very social experience. Hikers often move in bubbles. Even if you don't want to be in a bubble, your pace will probably align with the pace of someone else, and you'll find yourself in a bubble of hikers. To be clear, I have no issue with this at all. People make life-long friendships on the PCT, and the social comradery is a beautiful part of the PCT experience for many people. People also feel more safe hiking with others, which I understand.
 
