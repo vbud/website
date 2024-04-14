@@ -1,6 +1,6 @@
 ---
 title: "Learning how to think"
-description: "The professor that taught me how to think"
+description: "The professor who taught me how to think"
 pubDate: "Nov 26 2023"
 updatedDate: "Apr 14 2024"
 tag: "life"
