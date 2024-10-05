@@ -22,7 +22,3 @@ As my most recent surgeon said to me, you can find a paper backing up pretty muc
 Of course, this isn't the whole picture of what you need to improve your odds of a successful surgery, or any other medical intervention.
 
 You need to find the best care and be willing to put in the work. It takes work to find a physical therapist and surgeon who are highly skilled and really care about what they do and about getting great patient outcomes.
-
-This deserves its own post, but I'll mention it here because it's related: don't be cheap. Part of realizing that you need help to make a good decision is being willing to spend a little money to give you access to the advice you need. Saving a few hundred dollars by convincing yourself you don't need a second opinion is just not worth it when you consider the costliness in terms of time and life impact of a poorly executed surgery or physical therapy program.
-
-So, ask for help, don't be cheap, and remember that you're not alone! I suppose that's good advice for all the trials we face in life.

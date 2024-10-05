@@ -24,6 +24,8 @@ Finished posts:
 - [Slow down](/blog/slow-down)
 - [Ask for help](/blog/ask-for-help)
 - [Knowing when you are beaten](/blog/beaten)
+- [Fear and pain](/blog/fear-and-pain)
+- [Don't be cheap](/blog/dont-be-cheap)
 
 Some future posts I am considering writing:
 
