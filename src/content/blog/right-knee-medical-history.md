@@ -122,7 +122,7 @@ Lesley says there are three possible causes of my pain: nerve, chondral, and fat
 
 She is retired, but generally recommends finding a doctor who is a good diagnostician. Brian Feeley seems like such a doctor.
 
-She said my options are injections like PRP or cortisone shots, or surgery. She said the goal of the surgery would be to carefully clear up scar tissue in the fat pad. Surgeons differ widely in their ability to do that well (she mentioned a surgeon named Stetson, I think, who was really good at this, but he no longer operates).
+She said my options are injections like PRP or cortisone shots, or surgery. She said the goal of the surgery would be to carefully clear up scar tissue in the fat pad. Surgeons differ widely in their ability to do that well (she said Dr. Steadman was really good at this but he passed away).
 
 Her advice pairs nicely with Brian Feeley's plan.
 
