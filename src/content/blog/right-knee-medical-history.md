@@ -134,6 +134,8 @@ Just like Seth Sherman, Lesley also said that doing the MACI without TTO/TTL was
 
 Ed was focused on the cartilage damage in my knee and the MRI signal showing sub-chondral bone swelling in my patella and tibia. He said to consider an injection to see if I can bring down the inflammation in my knee. He said to be wary of cortisone injections with the presence of MACI cartilage in the knee, so he recommended that I try hyaluronic acid first.
 
+Given that other doctors have emphasized the fat pad as the more likely pain source, I asked him if the cause of my pain could be fat pad pain, and he said it was possible. He said patellofemoral pain and fat pain pain can occur together, and that the onset of one can lead to the other. This reminded me of my appointments with Lesley Anderson and Brian Feeley who both stressed the importance of finding the right diagnosis. If I don't treat the root cause of my pain and inflammation, I may end up treating a symptom.
+
 ## Claire Robertson
 
 TBD. June 16 appointment.
