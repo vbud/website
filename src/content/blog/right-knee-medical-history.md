@@ -69,30 +69,24 @@ A few months into the PT for MACI, it became clear that it did not have any impa
 
 Given all the focus on cartilage, my PT suggested that I could pay out-of-pocket for an MRI of my good knee to get a better idea of the state of the cartilage in my good knee as a baseline. This ended up being very interesting - the MRI showed that I have similar cartilage damage in the same area on my good knee. Between the MACI and this MRI, I became quite skeptical that cartilage damage is the cause of my pain, since cartilage damage does not always present with pain.
 
-In March 2025, I was now 1.5 years since the MACI surgery. The envelope of function PT approach had allowed me to return to some cycling and hiking, but pain levels were higher than before. PT exercises that were not painful in 2024 started becoming painful. Walking on flat surfaces is much more painful that it used to be, sometimes even 6/10 pain, which is very difficult to live with. With some reluctance, I decided I need to talk to orthopedic doctors. I wanted a fresh perspective, so I set up appointments with the best doctors and surgeons in my area (San Francisco Bay Area): Keith Chan, Brian Feeley, Lesley Anderson, Seth Sherman, and Ed Shin. An x-ray and MRI were performed.
+In March 2025, I was now 1.5 years since the MACI surgery. The envelope of function PT approach had allowed me to return to some cycling and hiking, but pain levels were higher than before. PT exercises that were not painful in 2024 started becoming painful. Walking on flat surfaces is much more painful that it used to be, sometimes even 6/10 pain, which is very difficult to live with. With some reluctance, I decided I need to talk to orthopedic doctors. I wanted a fresh perspective, so I set up appointments with the best doctors and surgeons in my area (San Francisco Bay Area): Keith Chan, Brian Feeley, Lesley Anderson, Seth Sherman, and Ed Shin.
 
-# Opinions from surgeons and PTs
-
-As of June 2025, I am in the process of talking to surgeons and PTs about my situation. Below are my summaries of my interactions so far.
-
-## James Chen
-
-James ordered an MRI for my knee. The [MRI report](https://drive.google.com/file/d/1eDwAQJrFVT4gyqly6RZ0yNJOL8vdAySi/view?usp=sharing) contained some new findings:
+I had x-ray and MRI done. The [MRI report](https://drive.google.com/file/d/1eDwAQJrFVT4gyqly6RZ0yNJOL8vdAySi/view?usp=sharing) contained some new findings:
 
 1. the tibial tunnel of the graft is positioned anterior to Blumensaat line
 2. the ACL graft is bowing
 3. evidence of fat pad impingement
 4. my tibia is anteriorly translated on my femur
 
-James said I have patellar maltracking and recommended I stretch my IT band. In the following weeks I did a lot of IT band foam rolling and stretching, which had no impact on my pain. I was skeptical of the diagnosis because it didn't line up well with my symptoms.
+# Opinions from surgeons and PTs
 
-I've since heard from multiple medical professionals to avoid James Chen, which I'm happy to do because he was not a good listener, he was dismissive, and his diagnosis was not corroborated by any other doctors I have seen. At least the MRI was useful.
+As of June 2025, I am in the process of talking to surgeons and PTs about my situation. Below are my summaries of my interactions so far.
 
-## Keith Chan (California Pacific Orthopaedics)
+## Keith Chan
 
 Upon seeing the MRI and understanding that I've already tried managing it conservatively, Keith suggested ACL revision. The thinking is that the anterior graft placement is putting more pressure on my infrapatellar fat pain, which is why it's so easy for me to trigger painful episodes.
 
-He said my ACL graft is a bit loose based on both the physical exam and the MRI. He also thinks the graft is impinging slightly, which is why the ACL has loosened despite me never returning sport since the initial ACLR six years ago.
+He said my ACL graft is a bit loose based on both the physical exam and the MRI. He also thinks the graft is impinging slightly, which could explain why the ACL has loosened despite me never returning sport since the initial ACLR six years ago.
 
 Keith also said that the MACI surgery I underwent was a "long shot" for treating my pain.
 
@@ -102,17 +96,17 @@ Brian wants to gather more information about where the pain is coming from befor
 
 I may also be able to assess if my knee feels like it is giving out. He agreed that my ACL is somewhat loose, but he said that only I can know if it is causing instability.
 
-He said Keith's theory is plausible, but he also said he's seen post-ACLR MRIs that look just like mine where the patient is pain-free and returned to sport successfully.
+He said Keith's theory is plausible, but he also said he's seen ACL grafts with bone tunnels in similar positions to mine where the patient is pain-free and returned to sport successfully.
 
 ## Seth Sherman
 
 Similar to Brian, Seth pointed out that while my ACL placement is not ideal, it is "in the zip code" and he has patients who returned to sport with an ACL in this location.
 
-Seth ordered full leg length, weight-bearing x-rays to compare how I am putting weight through my knees and the joint space. Thankfully, he said both look good.
+Seth ordered full leg length, weight-bearing x-rays to compare how I am putting weight through my knees and to compare the joint space. Thankfully, he said both look good.
 
 Seth said that cartilage damage and scar tissue are the likely causes of pain in my knee, but that there is no clear intervention he would recommend yet with the information he has. He recommended an exploratory arthroscopy to learn more about the state of my knee, i.e. where cartilage needs to be plugged and how much scar tissue is present in/around the fat pad.
 
-I'm a little hesitant about surgeons who jump to cartilage damage as a cause of pain in my knee. It doesn't track very well with my symptoms. Also, I have extensive cartilage damage in the same area of my good knee, and I am pain-free in that knee.
+I have become skeptical of cartilage damage as a primary driver of pain in my knee, as it doesn't track very well with my symptoms. Also, I have extensive cartilage damage in the same area of my good knee, and I am pain-free in that knee.
 
 Seth said that doing the MACI without TTO/TTL does not really make sense. There is no point patching cartilage if the patient is just going to wear the area down again.
 
@@ -128,11 +122,13 @@ Her advice pairs nicely with Brian Feeley's plan.
 
 Just like Seth Sherman, Lesley also said that doing the MACI without TTO/TTL was a strange choice. She said she would only do that in young patients who had acute patellar cartilage trauma, i.e. a divet of cartilage gets damaged from a fall. In older patients where the cartilage damaged is caused by wear-and-tear, there is no point patching cartilage if the patient is just going to wear the area down again.
 
-(Aside: It's fair to say at this point that Gilmer's choice of MACI was very flawed. The area was not a pain driver in my knee, so it was the wrong diagnosis, and even if it was correct, it didn't make sense to do it without TTO/TTL to correct the slight maltracking that naturally leads to the medial patellar cartilage wear. I need to stop picking surgeons that make the wrong choices! Hence my slower, more deliberate approach this time around.)
+(Aside: It's fair to say at this point that Brian Gilmer's choice of MACI for medial patellar cartilage damage was incorrect. The area was not a pain driver in my knee, so it was the wrong diagnosis, and even if it was correct, it didn't make sense to do it without TTO/TTL to correct the maltracking that naturally leads to the medial patellar cartilage wear.)
 
 ## Ed Shin
 
 Ed was focused on the cartilage damage in my knee and the MRI signal showing sub-chondral bone swelling in my patella and tibia. He said to consider an injection to see if I can bring down the inflammation in my knee. He said to be wary of cortisone injections with the presence of MACI cartilage in the knee, so he recommended that I try hyaluronic acid first.
+
+Ed said the ACL felt fine upon physical exam.
 
 Given that other doctors have emphasized the fat pad as the more likely pain source, I asked him if the cause of my pain could be fat pad pain, and he said it was possible. He said patellofemoral pain and fat pain pain can occur together, and that the onset of one can lead to the other. This reminded me of my appointments with Lesley Anderson and Brian Feeley who both stressed the importance of finding the right diagnosis. If I don't treat the root cause of my pain and inflammation, I may end up treating a symptom.
 
@@ -161,6 +157,6 @@ If I do end up needing surgical intervention to clear up scar tissue, I will nee
 
 # 6 years of pain
 
-It's now been over 6 years since the initial ACL surgery and subsequent complications. I cannot express in words how difficult this has been. Assuming I even partially restore normal function in the coming years, I'll have spent a decade of my life on this. It's likely I'll be dealing with this in one form or another for the rest of my life. I hope the surgeon who placed the graft incorrectly, which almost certainly caused that first cyclops lesion, hasn't caused these same issues in other patients.
+It's now been over 6 years since the initial ACL surgery and subsequent complications. I cannot express in words how difficult this has been. Assuming I even partially restore normal function in the coming years, I'll have spent a decade of my life on this. It's likely I'll be dealing with this in one form or another for the rest of my life.
 
 Onward.
