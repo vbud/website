@@ -7,7 +7,7 @@ tag: "tech"
 
 _Before reading this, you might be interested in reading my post about [the kinds of software problems I like working on](/blog/problems)._
 
-For years, I have kept a list of ideas for software products and tools. After I re-lauched my website, I figured why not clean up the list and make it public? Having ideas is the easy part, after all. Maybe one day I'll convince someone to work on one of these with me :).
+For years, I have kept a list of ideas for software products and tools. After I re-launched my website, I figured why not clean up the list and make it public? Having ideas is the easy part, after all. Maybe one day I'll convince someone to work on one of these with me :).
 
 # Better browser history and bookmarking
 

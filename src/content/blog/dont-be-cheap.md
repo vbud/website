@@ -2,7 +2,7 @@
 title: "Don't be cheap"
 description: "Advice for the frugal among us"
 pubDate: "Oct 5 2024"
-tag: "life"
+tag: "knee"
 ---
 
 _This is part of an ongoing series of posts on what I have learned from an ongoing, chronic knee problem. [This post](/blog/knee-injury) describes how I injured my knee and has links to the posts I have written about other lessons I have learned._

@@ -2,7 +2,7 @@
 title: "Everything I've learned from a complicated knee injury"
 description: "What my knee has taught me about life"
 pubDate: "Sep 09 2023"
-tag: "life"
+tag: "knee"
 ---
 
 In Jan 2019, I tore my ACL skiing. I still remember how bizarre it felt. I twisted my knee a bit on a pretty mild fall, then I tried standing up, my knee gave out, and I fell again. There was no pain at all. I think I tried getting up one or two more times before I realized that I needed help and couldn't make it down the mountain alone.
@@ -26,6 +26,8 @@ Finished posts:
 - [Knowing when you are beaten](/blog/beaten)
 - [Fear and pain](/blog/fear-and-pain)
 - [Don't be cheap](/blog/dont-be-cheap)
+- [Right knee medical history](/blog/right-knee-medical-history)
+- [MACI advice](/blog/maci-advice)
 
 Some future posts I am considering writing:
 
