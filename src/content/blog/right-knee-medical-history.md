@@ -2,7 +2,7 @@
 title: "Right knee medical history"
 description: "Medical history of my right knee, intended for medical professionals"
 pubDate: "May 18 2025"
-updatedDate: "Jun 15 2025"
+updatedDate: "Aug 3 2025"
 tag: "knee"
 ---
 
@@ -82,11 +82,11 @@ I had x-ray and MRI done. The [MRI report](https://drive.google.com/file/d/1eDwA
 
 # Opinions from surgeons and PTs
 
-As of June 2025, I am in the process of talking to surgeons and PTs about my situation. Below are my summaries of my interactions so far.
+As of August 2025, I am in the process of talking to surgeons and PTs about my situation. Below are my summaries of my interactions so far.
 
 ## Keith Chan
 
-Upon seeing the MRI and understanding that I've already tried managing it conservatively, Keith suggested ACL revision. The thinking is that the anterior graft placement is putting more pressure on my infrapatellar fat pain, which is why it's so easy for me to trigger painful episodes.
+Upon seeing the MRI and understanding that I've already tried managing it conservatively, Keith suggested ACL revision. The thinking is that the anterior graft placement is putting more pressure on my infrapatellar fat pad, which is why it's so easy for me to trigger painful episodes.
 
 He said my ACL graft is a bit loose based on both the physical exam and the MRI. He also thinks the graft is impinging slightly, which could explain why the ACL has loosened despite me never returning sport since the initial ACLR six years ago.
 
@@ -136,29 +136,46 @@ Given that other doctors have emphasized the fat pad as the more likely pain sou
 
 ## Claire Robertson
 
-TBD. June 16 appointment.
+Claire said I definitely have both patellofemoral pain and fat pad pain.
 
-## Diagnostics
+She encouraged me to focus on safe ranges where I can do clean work that do not trigger patellofemoral or fat pad pain. She described the compressive forces in the patella and encouraged me to try to pursue clean exercises between 30 and 60 degrees, which should avoid fat pad pain and the worst patellofemoral pain.
 
-Ultimately, I am trying to resolve pain to normalize function, so I need to have a clear understanding of the cause of the pain before any further intervention, conservative or surgical.
+She described many techniques I currently use or have used in the past: BFR, KT tape, NMES/EMS.
 
-The anterior placement of the graft is new information to me. Reading about it lines up with my lived experience and symptoms much better than general post-B2B graft patellofemoral pain. Namely:
+She also mentioned trying a Bioskin medializing patellar brace.
 
-- I don't have pain kneeling on the ground or in deep flexion as is often the case with this type of pain.
-- I have pain in that last ~30º of knee extension, which isn't really a feature of general patellofemoral pain.
-- Cyclops lesions are a common complication of overly anterior ACL graft placement.
-- My right tibia is clearly anterior of its normal position if you look at my two legs side-by-side.
+She said to try the brace + EMS + limited range exercises for 6 weeks, and, if I don't make progress, that I am actually a good candidate for an intra-articular cortisone shot to bring down inflammation and get a window in which I can build quad strength.
 
-After learning about the anterior graft placement, I was initially hopeful that I had found the smoking gun, the cause of all my pain and complications so far. And it indeed was likely the cause of my cyclops lesion. However, most surgeons I spoke to said that, while not optimal, the placement was no far off that they think this is the root cause of all my problems. It is possibly a contributor to fat pad pain. So, not a clear smoking gun.
+It's already been six weeks, so I can share the results. While the brace + EMS did help a little with pain while walking, it and the limited range queue didn't help much, so I did not make any progress with her suggestions, which led me to pursue a cortisone shot, which I describe below.
 
-Unfortunately, it's not quite this simple. Because I did B2B patellar autograft and patellar cartilage MACI, I have had two large traumas to my infrapatellar fat pad. The cyclops lesion also caused damage to my fat pad. The fat pad is highly enervated and a likely pain driver for me. It's possible that most or all of my pain is related to fat pad scarring. It's possible that the MACI further disrupted an already painful fat pad and that there is new fat pad scarring that has led to the bad outcome I have had.
+## Lidocaine injection
 
-I have two more appointments that should help with building confidence in a diagnosis and treatment plan. I'm seeing a patellofemoral pain expert, Claire Robertson, and I have the ultrasound-guided lidocaine injection into my fat pad that Brian Feeley set up. Between the two of these, I hope to have a clearer idea of how much of my pain is fat pad pain and how much is chondral pain. I like Brian Feeley and am hopeful that he can be a good partner to me in figuring out how to resolve my issues.
+In July I had the lidocaine injection that Dr. Feeley ordered. The injection confirmed that the pain is coming from inside my knee joint, not outside. For a few hours, I experienced very little pain. It was glorious.
 
-If I do end up needing surgical intervention to clear up scar tissue, I will need to decide if I want to operate on the ACL. The idea that the anterior graft placement has been a fat pad irritant is compelling, but knowing that people can have a similarly positioned graft and not experience pain makes me hesitate. An ACL revision is a big operation with its own risks.
+I did a squat and it was pain-free. I did some agility movements and I could feel the fat pad pain still when pushing off from my right leg. I tested my ACL stability with some basic pivoting and it felt stable to me.
 
-# 6 years of pain
+The doctor who performed the injection said it was a useful diagnostic result. I agree - it's clear that the bulk of my pain is patellofemoral. There is some fat pad pain as well, but the pain stopping me from progressing is patellofemoral.
 
-It's now been over 6 years since the initial ACL surgery and subsequent complications. I cannot express in words how difficult this has been. Assuming I even partially restore normal function in the coming years, I'll have spent a decade of my life on this. It's likely I'll be dealing with this in one form or another for the rest of my life.
+## Cortisone => toradol injection
 
-Onward.
+I also asked this same doctor about doing the intra-articular cortisone shot that Claire recommended. The doctor was hesitant to perform the cortisone shot given the state of my patellar cartilage and the effect cortisone shots can have on cartilage, so we did a toradol injection instead. She said results vary widely from just a few days of pain relief to a few months. For me, sadly, it only provided a few days of reduced pain.
+
+## Danny Keller
+
+At the end of July, I spoke to Danny Keller, a PT who works closely with Dr. Feeley at UCSF.
+
+He's seen patients with patellar cartilage defects before and he said he was quite confident that I have strong patellofemoral pain, and that the pain is caused by the large cartilage defect in the patellar cartilage. Since my MACI graft has delaminated (i.e. failed), we know the defect is now even larger than it was pre-surgery, since the surgeon has to cut out more cartilage to make room for a piece of MACI graft.
+
+He had a different take on the appropriate PT exercises that I should perform, relative to other PTs I have seen. He said to try open chain isometric exercises. The knee extension machine can be rough on the joint, so he said to use thick bands instead.
+
+Generally I have heard to avoid open chain and do only closed chain exercises as I try to build strength, but he said it's clear I'm not making progress with even simple closed chain exercises, and that open chain isometrics are even safer. I think this is because it's easier to isolate muscles, and isometrics do not produce shearing forces in the knee like full-range open chain exercises. Just when I think I've learned everything, I learn something new!
+
+He also said to _only_ perform these exercises. Rather than perform a long list of exercises, he is trying to only do safe exercises that fatigue the quad, and to perform them multiple times a day.
+
+Interestingly I have actually been able to fatigue the quad with these exercises, so maybe I am finally onto something. I think I'll know in the next couple weeks if it's having a positive effect.
+
+The good news is that Danny and Brian Feeley run a clinic together, so they are my care team regardless of if I keep trying to resolve the pain conservatively or if I pursue surgery. I can even setup appointment to see both of them at the same time. For the first time, I feel like I have an excellent, multidisciplinary care team that I can see for the coming years. I'm glad I took the time to get established at UCSF, even if it took about 5 months to get fully established.
+
+# 6 years of pain and counting
+
+It's now been over 6 years since the initial ACL surgery and subsequent complications. I cannot express in words how difficult this has been. The best case scenario is that I partially restore normal function in the coming years. By then, I'll have spent a full decade of my life on this. I will be dealing with this in one form or another for the rest of my life.
